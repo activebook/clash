@@ -11,6 +11,9 @@ No security guarantee.
 <https://raw.githubusercontent.com/activebook/clash/refs/heads/main/ssr.txt>
 <https://raw.githubusercontent.com/activebook/clash/refs/heads/main/trojan.txt>
 <https://raw.githubusercontent.com/activebook/clash/refs/heads/main/hysteria2.txt>
+<https://raw.githubusercontent.com/activebook/clash/refs/heads/main/tuic.txt>
+<https://raw.githubusercontent.com/activebook/clash/refs/heads/main/anytls.txt>
+
 
 ## License
 
