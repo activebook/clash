@@ -71,7 +71,30 @@ var criticalChineseDomains = {
     "www.le.com": 1,
     "1905.com": 1,              // 1905 Cinema
     "www.1905.com": 1,
-    
+
+    // Short video platforms (NEW/ENHANCED)
+    "douyin.com": 1,            // Douyin (TikTok China)
+    "www.douyin.com": 1,
+    "iesdouyin.com": 1,
+    "amemv.com": 1,
+    "snssdk.com": 1,            // ByteDance CDN
+    "byteimg.com": 1,           // ByteDance images
+    "bytedance.com": 1,         // ByteDance
+    "www.bytedance.com": 1,
+    "kuaishou.com": 1,          // Kuaishou (2nd largest short video)
+    "www.kuaishou.com": 1,
+    "gifshow.com": 1,           // Kuaishou alternative domain
+    "www.gifshow.com": 1,
+    "ksapisrv.com": 1,          // Kuaishou API
+    "xiaohongshu.com": 1,       // Little Red Book/RED
+    "www.xiaohongshu.com": 1,
+    "xhscdn.com": 1,            // Xiaohongshu CDN
+    "xhscdn.net": 1,            // Xiaohongshu CDN
+    "toutiao.com": 1,           // Toutiao (ByteDance news)
+    "www.toutiao.com": 1,
+    "ixigua.com": 1,            // Xigua Video (ByteDance)
+    "www.ixigua.com": 1,
+
     // Social media and communication
     "weibo.com": 1,             // Weibo
     "www.weibo.com": 1,
@@ -89,27 +112,31 @@ var criticalChineseDomains = {
     "weixin.qq.com": 1,
     "wx.qq.com": 1,
     "web.wechat.com": 1,
-    "douyin.com": 1,            // Douyin (TikTok China)
-    "www.douyin.com": 1,
-    "iesdouyin.com": 1,
-    "amemv.com": 1,
     "zhihu.com": 1,             // Zhihu
     "www.zhihu.com": 1,
     "zhihuishu.com": 1,         // Zhihuishu (online education)
     "www.zhihuishu.com": 1,
-    
-    // E-commerce
+
+    // E-commerce (with short video features)
     "taobao.com": 1,            // Taobao
     "www.taobao.com": 1,
     "tmall.com": 1,             // Tmall
     "www.tmall.com": 1,
     "jd.com": 1,                // JD.com
     "www.jd.com": 1,
-    "pinduoduo.com": 1,         // Pinduoduo
+    "pinduoduo.com": 1,         // Pinduoduo (social commerce + short video)
     "www.pinduoduo.com": 1,
+    "yangkeduo.com": 1,         // Pinduoduo alternative domain
+    "meituan.com": 1,           // Meituan (food delivery + short video)
+    "www.meituan.com": 1,
+    "dianping.com": 1,          // Dianping (merged with Meituan)
+    "www.dianping.com": 1,
+    "ele.me": 1,                // Ele.me (Alibaba food delivery)
+    "www.ele.me": 1,
+    "elemecdn.com": 1,          // Ele.me CDN
     "alipay.com": 1,            // Alipay
     "www.alipay.com": 1,
-    
+
     // Search and portals
     "baidu.com": 1,             // Baidu
     "www.baidu.com": 1,
@@ -123,7 +150,7 @@ var criticalChineseDomains = {
     "www.so.com": 1,
     "sogou.com": 1,             // Sogou
     "www.sogou.com": 1,
-    
+
     // Music and entertainment
     "qqmusic.qq.com": 1,        // QQ Music
     "y.qq.com": 1,
@@ -134,7 +161,7 @@ var criticalChineseDomains = {
     "www.kugou.com": 1,
     "163.com": 1,               // Netease
     "music.163.com": 1,
-    
+
     // Tech and services
     "aliyun.com": 1,            // Alibaba Cloud
     "www.aliyun.com": 1,
@@ -147,7 +174,7 @@ var criticalChineseDomains = {
     "myqcloud.com": 1,          // Tencent Cloud
     "qcloud.com": 1,
     "weiyun.com": 1,            // Weiyun (Tencent Cloud Storage)
-    
+
     // News and media
     "163.com": 1,               // Netease News
     "news.163.com": 1,
@@ -155,7 +182,7 @@ var criticalChineseDomains = {
     "news.ifeng.com": 1,
     "sina.com.cn": 1,           // Sina News
     "news.sina.com.cn": 1,
-    
+
     // Education
     "xuetangx.com": 1,          // XuetangX
     "www.xuetangx.com": 1,
@@ -164,13 +191,13 @@ var criticalChineseDomains = {
     "mooc.cn": 1,
     "www.mooc.cn": 1,
     "studying.cn": 1,
-    
+
     // Gaming
     "wegame.com": 1,            // Tencent Gaming
     "www.wegame.com": 1,
     "17173.com": 1,             // 17173 Gaming
     "www.17173.com": 1,
-    
+
     // Other important services
     "12306.cn": 1,              // China Railway Booking
     "kyfw.12306.cn": 1,
@@ -933,9 +960,9 @@ function cidrToRange(cidr) {
     var mask = parseInt(parts[1], 10);
     var ipParts = ip.split(".");
     var ipNum = (parseInt(ipParts[0], 10) << 24) +
-                (parseInt(ipParts[1], 10) << 16) +
-                (parseInt(ipParts[2], 10) << 8) +
-                parseInt(ipParts[3], 10);
+        (parseInt(ipParts[1], 10) << 16) +
+        (parseInt(ipParts[2], 10) << 8) +
+        parseInt(ipParts[3], 10);
     var maskNum = -1 << (32 - mask);
     var start = ipNum & maskNum;
     var end = start + Math.pow(2, (32 - mask)) - 1;
@@ -946,9 +973,9 @@ function cidrToRange(cidr) {
 function ipInRange(ip, range) {
     var ipParts = ip.split(".");
     var ipNum = (parseInt(ipParts[0], 10) << 24) +
-                (parseInt(ipParts[1], 10) << 16) +
-                (parseInt(ipParts[2], 10) << 8) +
-                parseInt(ipParts[3], 10);
+        (parseInt(ipParts[1], 10) << 16) +
+        (parseInt(ipParts[2], 10) << 8) +
+        parseInt(ipParts[3], 10);
     return ipNum >= range[0] && ipNum <= range[1];
 }
 
@@ -963,10 +990,10 @@ function dnsLookup(host) {
 
 // Helper function to check for localhost
 function isLocalHost(host) {
-    return host === "localhost" || 
-           host === "127.0.0.1" || 
-           host.match(/^localhost\./) ||
-           host.match(/^127\.0\.0\.1/);
+    return host === "localhost" ||
+        host === "127.0.0.1" ||
+        host.match(/^localhost\./) ||
+        host.match(/^127\.0\.0\.1/);
 }
 
 // Main function to determine proxy settings
