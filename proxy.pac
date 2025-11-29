@@ -175,6 +175,111 @@ var criticalChineseDomains = {
     "qcloud.com": 1,
     "weiyun.com": 1,            // Weiyun (Tencent Cloud Storage)
 
+    // AI and Chat Services
+    // DeepSeek AI
+    "deepseek.com": 1,
+    "www.deepseek.com": 1,
+    "chat.deepseek.com": 1,
+
+    // ByteDance Doubao (豆包)
+    "doubao.com": 1,
+    "www.doubao.com": 1,
+
+    // Moonshot AI - Kimi (月之暗面)
+    "kimi.com": 1,
+    "www.kimi.com": 1,
+    "kimi.moonshot.cn": 1,
+    "moonshot.cn": 1,
+
+    // MiniMax AI
+    "minimax.com": 1,
+    "minimax.chat": 1,
+    "minimax.io": 1,
+    "www.minimax.com": 1,
+
+    // Baidu AI - Ernie Bot / Wenxin Yiyan (文心一言)
+    "yiyan.baidu.com": 1,
+    "wenxin.baidu.com": 1,
+    "wenxinworkshop.baidu.com": 1,
+    "wenxin.qq.com": 1,              // Alternative domain
+
+    // Alibaba - Tongyi Qianwen (通义千问)
+    "tongyi.aliyun.com": 1,
+    "qianwen.aliyun.com": 1,
+    "qwen.com": 1,
+    "www.qwen.com": 1,
+    "qwen.alibaba.com": 1,
+    "tongyi.com": 1,
+    "www.tongyi.com": 1,
+
+    // Tencent - Yuanbao / Hunyuan (元宝/混元)
+    "yuanbao.tencent.com": 1,
+    "yuanbao.qq.com": 1,
+    "hunyuan.tencent.com": 1,
+    "hunyuan.qq.com": 1,
+
+    // Zhipu AI - ChatGLM (智谱清言)
+    "bigmodel.cn": 1,
+    "www.bigmodel.cn": 1,
+    "chatglm.cn": 1,
+    "www.chatglm.cn": 1,
+    "zhipuai.cn": 1,
+    "www.zhipuai.cn": 1,
+    "open.bigmodel.cn": 1,
+
+    // SenseTime - SenseChat (商汤)
+    "chat.sensetime.com": 1,
+    "sensetime.com": 1,
+    "www.sensetime.com": 1,
+    "sensenova.cn": 1,
+    "www.sensenova.cn": 1,
+
+    // iFlytek - SparkDesk / Xinghuo (讯飞星火)
+    "xinghuo.xfyun.cn": 1,
+    "xfyun.cn": 1,
+    "www.xfyun.cn": 1,
+    "spark.xfyun.cn": 1,
+    "sparkdesk.xfyun.cn": 1,
+    "iflytek.com": 1,
+    "www.iflytek.com": 1,
+
+    // Kuaishou AI - KwaiYii (快意)
+    "kwaiyii.com": 1,
+    "www.kwaiyii.com": 1,
+
+    // Baichuan AI (百川智能)
+    "baichuan-ai.com": 1,
+    "www.baichuan-ai.com": 1,
+
+    // Step AI / 阶跃星辰
+    "stepchat.cn": 1,
+    "www.stepchat.cn": 1,
+
+    // 01.AI - Yi (零一万物)
+    "01.ai": 1,
+    "www.01.ai": 1,
+    "yi.01.ai": 1,
+
+    // Tiangong AI (天工)
+    "tiangong.cn": 1,
+    "www.tiangong.cn": 1,
+    "tiangong.kunlun.com": 1,
+
+    // Other AI Services
+    "longcat.chat": 1,
+
+    // Instant Messaging Apps
+    // DingTalk (钉钉) - Alibaba
+    "dingtalk.com": 1,
+    "www.dingtalk.com": 1,
+    "im.dingtalk.com": 1,
+
+    // Feishu / Lark (飞书) - ByteDance
+    "feishu.cn": 1,
+    "www.feishu.cn": 1,
+    "larksuite.com": 1,
+    "www.larksuite.com": 1,
+
     // News and media
     "163.com": 1,               // Netease News
     "news.163.com": 1,
