@@ -13,6 +13,7 @@ No security guarantee.
 <https://raw.githubusercontent.com/activebook/clash/refs/heads/main/hysteria2.txt>
 <https://raw.githubusercontent.com/activebook/clash/refs/heads/main/tuic.txt>
 <https://raw.githubusercontent.com/activebook/clash/refs/heads/main/anytls.txt>
+<https://raw.githubusercontent.com/activebook/clash/refs/heads/main/fast.txt>
 
 
 ## License
