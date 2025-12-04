@@ -95,6 +95,47 @@ var criticalChineseDomains = {
     "ixigua.com": 1,            // Xigua Video (ByteDance)
     "www.ixigua.com": 1,
 
+    // Video streaming CDNs
+    // Douyu CDN domains
+    "douyucdn.com": 1,          // Douyu CDN
+    "douyucdn.cn": 1,           // Douyu CDN
+    "douyucdn2.com": 1,         // Douyu CDN
+    "douyucdn2.cn": 1,          // Douyu CDN
+    "douyu.tv": 1,              // Douyu alternate domain
+    "*.douyucdn.com": 1,        // Douyu CDN wildcard
+    "*.douyucdn.cn": 1,         // Douyu CDN wildcard
+    "*.douyucdn2.com": 1,       // Douyu CDN wildcard
+    "*.douyucdn2.cn": 1,        // Douyu CDN wildcard
+    
+    // Bilibili CDN domains (already partially covered)
+    // Adding missing CDN patterns
+    "*.bilivideo.com": 1,       // Bilibili CDN wildcard
+    "*.mcdn.bilivideo.com": 1,  // Bilibili mobile CDN
+    
+    // Other streaming platform CDNs
+    "douyinvod.com": 1,         // Douyin video CDN
+    "*.douyinvod.com": 1,       // Douyin video CDN wildcard
+    "toutiaovod.com": 1,        // Toutiao video CDN
+    "*.toutiaovod.com": 1,      // Toutiao video CDN wildcard
+    "ixiguavod.com": 1,         // Xigua video CDN
+    "*.ixiguavod.com": 1,       // Xigua video CDN wildcard
+    
+    // General Chinese CDN domains
+    "lxdns.com": 1,             // ChinaCache CDN
+    "*.lxdns.com": 1,           // ChinaCache CDN wildcard
+    "ccgslb.com.cn": 1,         // ChinaCache CDN
+    "*.ccgslb.com.cn": 1,       // ChinaCache CDN wildcard
+    "chinacache.net": 1,        // ChinaCache CDN
+    "*.chinacache.net": 1,      // ChinaCache CDN wildcard
+    "wscloudcdn.com": 1,        // ChinaNetCenter CDN
+    "*.wscloudcdn.com": 1,      // ChinaNetCenter CDN wildcard
+    "ourdvsss.com": 1,          // ChinaNetCenter CDN
+    "*.ourdvsss.com": 1,        // ChinaNetCenter CDN wildcard
+    "speedcdns.com": 1,         // QUANTIL CDN
+    "*.speedcdns.com": 1,       // QUANTIL CDN wildcard
+    "mwcloudcdn.com": 1,        // QUANTIL CDN
+    "*.mwcloudcdn.com": 1,      // QUANTIL CDN wildcard
+
     // Social media and communication
     "weibo.com": 1,             // Weibo
     "www.weibo.com": 1,
@@ -255,11 +296,6 @@ var criticalChineseDomains = {
     "stepchat.cn": 1,
     "www.stepchat.cn": 1,
 
-    // 01.AI - Yi (零一万物)
-    "01.ai": 1,
-    "www.01.ai": 1,
-    "yi.01.ai": 1,
-
     // Tiangong AI (天工)
     "tiangong.cn": 1,
     "www.tiangong.cn": 1,
@@ -310,6 +346,54 @@ var criticalChineseDomains = {
     "www.115.com": 1,
     "cnki.net": 1,              // CNKI (China National Knowledge Infrastructure)
     "www.cnki.net": 1,
+
+    // Chinese Banks
+    "icbc.com.cn": 1,           // Industrial and Commercial Bank of China (中国工商银行)
+    "www.icbc.com.cn": 1,
+    "abchina.com": 1,           // Agricultural Bank of China (中国农业银行)
+    "www.abchina.com": 1,
+    "boc.cn": 1,                // Bank of China (中国银行)
+    "www.boc.cn": 1,
+    "ccb.com": 1,               // China Construction Bank (中国建设银行)
+    "www.ccb.com": 1,
+    "bankcomm.com": 1,          // Bank of Communications (交通银行)
+    "www.bankcomm.com": 1,
+    "psbc.com": 1,              // Postal Savings Bank of China (中国邮政储蓄银行)
+    "www.psbc.com": 1,
+    "citicbank.com": 1,         // China CITIC Bank (中信银行)
+    "www.citicbank.com": 1,
+    "cebbank.com": 1,           // China Everbright Bank (中国光大银行)
+    "www.cebbank.com": 1,
+    "cmbchina.com": 1,          // China Merchants Bank (招商银行)
+    "www.cmbchina.com": 1,
+    "spdb.com.cn": 1,           // Shanghai Pudong Development Bank (浦发银行)
+    "www.spdb.com.cn": 1,
+    "pingan.com": 1,            // Ping An Bank (平安银行)
+    "www.pingan.com": 1,
+    "cib.com.cn": 1,            // China Industrial Bank (兴业银行)
+    "www.cib.com.cn": 1,
+    "cmbc.com.cn": 1,           // China Minsheng Bank (中国民生银行)
+    "www.cmbc.com.cn": 1,
+    "hxb.com.cn": 1,            // Hua Xia Bank (华夏银行)
+    "www.hxb.com.cn": 1,
+    "bankofbeijing.com.cn": 1,  // Bank of Beijing (北京银行)
+    "www.bankofbeijing.com.cn": 1,
+    "bankofshanghai.com": 1,    // Bank of Shanghai (上海银行)
+    "www.bankofshanghai.com": 1,
+    "pbc.gov.cn": 1,            // People's Bank of China (中国人民银行)
+    "www.pbc.gov.cn": 1,
+    "cdb.com.cn": 1,            // China Development Bank (国家开发银行)
+    "www.cdb.com.cn": 1,
+    "eximbank.gov.cn": 1,       // Export-Import Bank of China (中国进出口银行)
+    "www.eximbank.gov.cn": 1,
+    "adbc.com.cn": 1,           // Agricultural Development Bank of China (中国农业发展银行)
+    "www.adbc.com.cn": 1,
+    "ecitic.com": 1,            // CITIC Group (中信集团)
+    "www.ecitic.com": 1,
+    "gdb.com.cn": 1,            // Guangdong Development Bank (广发银行)
+    "www.gdb.com.cn": 1,
+    "sdb.com.cn": 1,            // Shenzhen Development Bank (深圳发展银行)
+    "www.sdb.com.cn": 1,
 };
 
 // Chinese IP ranges for IP-based routing
