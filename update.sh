@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Lightweight script to commit and sync modified files to GitHub
 # Usage: ./update.sh
 
@@ -9,6 +7,9 @@ set -e  # Exit on error
 cd "$(dirname "$0")"
 
 echo "🔍 Checking for modified files..."
+
+# Fetch latest from remote
+git fetch
 
 # Check if there are any modified files (tracked files only)
 if ! git diff --quiet --exit-code; then
@@ -21,12 +22,20 @@ if ! git diff --quiet --exit-code; then
     # Commit with simple message
     echo "💾 Committing changes..."
     git commit -m "Update"
-    
-    # Push to remote
+fi
+
+# Check if we are behind remote
+if [ $(git rev-list HEAD..@{u} --count) -gt 0 ]; then
+    echo "📥 Pulling updates from GitHub..."
+    git pull --rebase
+fi
+
+# Check if we are ahead, push
+if [ $(git rev-list @{u}..HEAD --count) -gt 0 ]; then
     echo "🚀 Pushing to GitHub..."
     git push
-    
-    echo "✅ Successfully updated and synced to GitHub!"
+    echo "✅ Successfully synced to GitHub!"
 else
-    echo "✨ No modified files to commit. Everything is up to date!"
+    echo "✨ Everything is up to date!"
 fi
+
