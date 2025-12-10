@@ -1,1 +1,2 @@
-﻿hysteria2://be52060e-7934-4bc6-89b3-0b6cf4cda789@134.195.101.191:35000?insecure=1&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2006
+﻿hysteria2://f860f2da-5035-11ed-bb74-f23c9164ca5d@7ea417a7-t6pb40-tnt75r-1k8ga.hk2.hyhuawei.com:443?sni=7ea417a7-t6pb40-tnt75r-1k8ga.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2006
+hysteria2://%40KevinZakarian@kevin.vpny.online:22002?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=kevin.vpny.online#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2008
