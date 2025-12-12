@@ -1,2 +1,4 @@
-﻿hysteria2://f860f2da-5035-11ed-bb74-f23c9164ca5d@7ea417a7-t6pb40-tnt75r-1k8ga.hk2.hyhuawei.com:443?sni=7ea417a7-t6pb40-tnt75r-1k8ga.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2006
-hysteria2://%40KevinZakarian@kevin.vpny.online:22002?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=kevin.vpny.online#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2008
+﻿hysteria2://%40KevinZakarian@kevin.vpny.online:22002?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=kevin.vpny.online#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2001
+hysteria2://9440903c-0c23-493c-8966-53164e5794cf@85.209.53.170:443?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2006
+hysteria2://dd84018a-4e1e-4a38-acd6-f98742623564@85.209.53.170:80?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2007
+hysteria2://thunder_speed@2.229.212.183:25657?insecure=1#%F0%9F%87%AE%F0%9F%87%B9%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%84%8F%E5%A4%A7%E5%88%A9%2001
