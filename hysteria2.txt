@@ -1,1 +1,2 @@
-﻿hysteria2://d2e6cb67-b10e-4816-ab2d-63e07f21c716@185.181.10.175:443?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2003
+﻿hysteria2://4ce6e331-2c89-46e2-88bc-afc4a4eaf995@185.181.10.175:443?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2001
+hysteria2://35302771-0ac2-4d9a-b14c-44e8ab58541d@185.181.10.175:80?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2002
