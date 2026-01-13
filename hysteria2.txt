@@ -1,8 +1,3 @@
-﻿hysteria2://36097cf0-8f15-4697-8825-b21e6ec9e551@185.181.10.186:443?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AADE_1
-hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk3.dexlos.com:5343?sni=hk3.dexlos.com&mport=5000-6000#%F0%9F%87%AD%F0%9F%87%B0HK_15
-hysteria2://001f6d6b-6305-408d-a2ce-2f73c613df40@yg.kaixincloud.top:25200?sni=yg.kaixincloud.top&mport=25200-26200#%F0%9F%87%BA%F0%9F%87%B8US_162
-hysteria2://a5d56d89-a3bf-4483-8451-596f7efdc5b4@185.181.10.175:443?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AADE_3
-hysteria2://c83d44d6-33d8-4382-98e2-3f3e607a7885@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#%F0%9F%87%A8%F0%9F%87%A6CA_1
-hysteria2://yhqy5AHofQq@channel4.saghetalaie.homes:46914?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK!5t%23U&sni=www.google.com#%F0%9F%87%B1%F0%9F%87%BBLV_1
-hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk4.dexlos.com:7569?sni=hk4.dexlos.com&mport=7000-8000#%F0%9F%87%AD%F0%9F%87%B0HK_36
-hysteria2://001f6d6b-6305-408d-a2ce-2f73c613df40@us1.kaixincloud.top:25200?sni=us1.kaixincloud.top&mport=25200-26200#%F0%9F%87%BA%F0%9F%87%B8US_193
+﻿hysteria2://dongtaiwang.com@89.144.35.25:33550?insecure=1&sni=apple.com#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2006
+hysteria2://87f5acdb-4b53-444d-9154-070952c86fc0@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#%F0%9F%87%A8%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2002
+hysteria2://yhqy5AHofQq@channel4.saghetalaie.homes:46914?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK!5t%23U&sni=www.bing.com#%F0%9F%87%B1%F0%9F%87%BB%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A%2001
