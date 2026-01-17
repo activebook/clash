@@ -1,3 +1,2 @@
-﻿hysteria2://dongtaiwang.com@89.144.35.25:33550?insecure=1&sni=apple.com#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2006
-hysteria2://87f5acdb-4b53-444d-9154-070952c86fc0@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#%F0%9F%87%A8%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2002
-hysteria2://yhqy5AHofQq@channel4.saghetalaie.homes:46914?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK!5t%23U&sni=www.bing.com#%F0%9F%87%B1%F0%9F%87%BB%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A%2001
+﻿hysteria2://93c426c5-a686-4e2b-b321-25998f606ea2@185.181.10.186:8080?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2011
+hysteria2://5470f09a-8c99-4aff-9646-dc2339ac70e1@185.181.10.186:8443?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2016
