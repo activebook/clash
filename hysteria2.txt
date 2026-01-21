@@ -1,2 +1,7 @@
-﻿hysteria2://93c426c5-a686-4e2b-b321-25998f606ea2@185.181.10.186:8080?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2011
-hysteria2://5470f09a-8c99-4aff-9646-dc2339ac70e1@185.181.10.186:8443?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2016
+﻿hysteria2://4dd859b3-c9f6-477e-95f5-283abb3129e5@los.zuomomo.top:16667?sni=los.zuomomo.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2047
+hysteria2://4dd859b3-c9f6-477e-95f5-283abb3129e5@los.zuomomo.top:16666?sni=los.zuomomo.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2053
+hysteria2://4dd859b3-c9f6-477e-95f5-283abb3129e5@helan.zuomomo.top:16666?sni=helan.zuomomo.top#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2007
+hysteria2://dongtaiwang.com@89.144.35.25:33550?insecure=1&sni=apple.com#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2010
+hysteria2://23e23726-93da-4765-8657-5a33dfb816e9@85.209.53.178:8443?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2014
+hysteria2://4dd859b3-c9f6-477e-95f5-283abb3129e5@sg.zuomomo.top:16666?sni=sg.zuomomo.top#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2007
+hysteria2://4dd859b3-c9f6-477e-95f5-283abb3129e5@sg.zuomomo.top:16667?sni=sg.zuomomo.top#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2009
