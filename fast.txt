@@ -1,3 +1,11 @@
+trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@mfa.gov.ua:2096?sni=666.cmliuliuliu.ggff.net&type=ws&path=%2Fproxyip%3D114.34.28.110%3A443%3Fed%3D2560&host=666.cmliuliuliu.ggff.net#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.1MB%2Fs
+trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@time.is:8443?sni=666.cmliuliuliu.ggff.net&type=ws&path=%2Fproxyip%3D114.34.28.110%3A443%3Fed%3D2560&host=666.cmliuliuliu.ggff.net#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.1MB%2Fs
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C1.3MB%2Fs
+vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&encryption=none#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C2.0MB%2Fs
+vless://8e28baed-b7da-29a3-cb89-cb7e4878c011@5.255.126.160:2051?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=9d38c6241e8c654a&pbk=pMAxMd8b9VTp8Yp4v18z98zJ6frzxPdK0DvZT8CMF2k&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.2MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18xfDEuMk1CL3MiLCJhZGQiOiJ0NjUubzFvLmluZGV2cy5pbiIsInBvcnQiOiI4MCIsImlkIjoiNDExNWY4NGQtM2IwMy00YjAzLWJhYmYtMjFiMzZiMmY5YzAzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL0dnaWdhekZHRExnRldESXRrRDVYZ1hBTCIsImhvc3QiOiJ0NjUuTzFvLkluREVWUy5pbiJ9
+vless://bc3d43b6-814c-4812-bbcf-1d7c5fd054a2@104.25.211.224:2052?security=none&type=ws&path=%2Ft.me.V2RayyNGvpn%3Fed%3D1024&host=metaplayer.gameredzone.top&encryption=none#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.1MB%2Fs
+vless://70035a7a-393a-5041-9ca9-33890916cccf@www.speedtest.net:2053?security=tls&type=ws&path=%2F&host=dl.immerchauffage.ir.&sni=dl.immerchauffage.ir.&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE_2%7C1.0MB%2Fs
 socks://Og%3D%3D@127.0.0.1:7890#🇸🇬SG_1|1.4MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.3MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C1.4MB%2Fs
