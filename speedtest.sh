@@ -64,7 +64,7 @@ parse_args() {
 }
 
 check_dependencies() {
-    local deps=(curl ping awk bc jq)
+    local deps=(curl ping awk bc jq python3)
     for cmd in "${deps[@]}"; do
         if ! command -v "$cmd" &>/dev/null; then
             log_error "Missing required command: $cmd"
@@ -147,6 +147,9 @@ get_ip_info() {
     fi
 
     MY_LOC="${MY_CITY}, ${MY_COUNTRY}"
+    
+    log_info "Performing WebRTC Leak Check (UDP)..."
+    WEBRTC_IP=$(python3 webrtc_check.py 2>/dev/null || echo "Unknown")
 }
 
 test_ping() {
@@ -281,6 +284,19 @@ run_report() {
     printf "  %-14s : %s (%s)\\n" "Region" "$MY_REGION" "$MY_CONTINENT" >&2
     printf "  %-14s : %s (AS%s)\\n" "Provider" "$MY_ISP" "$MY_ASN" >&2
     printf "  %-14s : %s\\n" "Timezone" "$MY_TIMEZONE" >&2
+    
+    # WebRTC Leak Check
+    if [[ "$WEBRTC_IP" != "Unknown" ]]; then
+        if [[ "$MY_IP" != "$WEBRTC_IP" ]]; then
+            printf "  %-14s : ${RED}%s${NC} (via UDP)\\n" "WebRTC IP" "$WEBRTC_IP" >&2
+            printf "  %-14s : ${RED}⚠️  LEAK DETECTED${NC}\\n" "Leak Status" >&2
+        else
+            printf "  %-14s : ${GREEN}%s${NC}\\n" "WebRTC IP" "$WEBRTC_IP" >&2
+            printf "  %-14s : ${GREEN}SECURE${NC}\\n" "Leak Status" >&2
+        fi
+    else
+        printf "  %-14s : ${YELLOW}Check Failed${NC}\\n" "WebRTC IP" >&2
+    fi
     
     if [[ -n "$PROXY" ]]; then
         printf "  %-14s : ${PURPLE}%s${NC}\\n" "Proxy" "ON (Active)" >&2
