@@ -215,6 +215,8 @@ run_report() {
         "https://speed.cloudflare.com/__down?bytes=${bytes_size}|Cloudflare CDN"
         "http://speedtest.tele2.net/${FILE_SIZE}.zip|Tele2 (Europe)"
         "https://proof.ovh.net/files/${FILE_SIZE/MB/Mb}.dat|OVH Hosting"
+        "https://hnd-jp-ping.vultr.com/vultr.com.100MB.bin|Vultr (Tokyo)"
+        "https://storage.googleapis.com/chromium-browser-snapshots/Linux_x64/1399000/chrome-linux.zip|YouTube/Google"
     )
 
     local total_speed=0
