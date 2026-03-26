@@ -1,2 +1,2 @@
 ﻿anytls://dongtaiwang.com@45.221.98.14:59901?security=none&type=tcp&alpn=h2&allowInsecure=1&insecure=1&udp=1#%F0%9F%87%BF%F0%9F%87%A6ZA_1
-anytls://604e6b98-556e-4ecb-a620-8455d6cdceed@trbya.osaip.net:443?security=none&type=tcp&sni=trbya.osaip.net&udp=1#%F0%9F%87%B9%F0%9F%87%B7TR_2
+anytls://fe0fda62-79ff-467e-bef4-983322c1d21b@47.238.235.158:60001?security=none&type=tcp&allowInsecure=1&insecure=1&udp=1#%F0%9F%87%AD%F0%9F%87%B0HK_30
