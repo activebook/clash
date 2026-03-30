@@ -1,2 +1,7 @@
 ﻿anytls://dongtaiwang.com@45.221.98.14:59901?security=none&type=tcp&alpn=h2&allowInsecure=1&insecure=1&udp=1#%F0%9F%87%BF%F0%9F%87%A6ZA_1
-anytls://fe0fda62-79ff-467e-bef4-983322c1d21b@47.238.235.158:60001?security=none&type=tcp&allowInsecure=1&insecure=1&udp=1#%F0%9F%87%AD%F0%9F%87%B0HK_30
+anytls://5d1a1744-0d9d-42d0-b014-28b1bfc6a7e8@sxysg.gfwsb.icu:30474?security=none&type=tcp&allowInsecure=1&sni=sxysg.gfwsb.icu&insecure=1&udp=1#%F0%9F%87%AD%F0%9F%87%B0HK_11
+anytls://5d1a1744-0d9d-42d0-b014-28b1bfc6a7e8@82.40.45.79:25565?security=none&type=tcp&allowInsecure=1&insecure=1&udp=1&username=5d1a1744-0d9d-42d0-b014-28b1bfc6a7e8&disable_sni=true#%F0%9F%87%AC%F0%9F%87%A7GB_7
+anytls://5d1a1744-0d9d-42d0-b014-28b1bfc6a7e8@192.161.60.29:25565?security=none&type=tcp&allowInsecure=1&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_47
+anytls://5d1a1744-0d9d-42d0-b014-28b1bfc6a7e8@107.148.225.212:25565?security=none&type=tcp&allowInsecure=1&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_50
+anytls://dongtaiwang.com@45.221.98.14:59901?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=45.221.98.14&insecure=1#%F0%9F%87%BF%F0%9F%87%A6ZA_2
+anytls://5d1a1744-0d9d-42d0-b014-28b1bfc6a7e8@64.69.32.8:25565?security=none&type=tcp&allowInsecure=1&insecure=1&udp=1&username=5d1a1744-0d9d-42d0-b014-28b1bfc6a7e8&disable_sni=true#%F0%9F%87%BA%F0%9F%87%B8US_52
