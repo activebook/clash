@@ -1,9 +1,2 @@
-﻿hysteria2://dongtaiwang.com@195.154.54.131:40022?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_1
-hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@us5.dexlos.com:20847?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us5.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8US_43
-hysteria2://06bb0c42-9c60-4a2a-bc40-3e950d4c458b@hk1.jueduibupao.top:50001?insecure=1&sni=hk1.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0HK_12
-hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@us4.dexlos.com:20795?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us4.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8US_46
-hysteria2://6d5d1d83-b04e-4c5d-873e-b027d59e0b36@jp1.ktmhyld.com:18385?insecure=1&sni=jp1.ktmhyld.com#%F0%9F%87%AF%F0%9F%87%B5JP_6
-hysteria2://06bb0c42-9c60-4a2a-bc40-3e950d4c458b@hk2.jueduibupao.top:42681?insecure=1&sni=hk2.jueduibupao.top#%F0%9F%87%B2%F0%9F%87%BAMU_1
-hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@us1.dexlos.com:20193?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us1.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8US_49
-hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@hk2.dexlos.com:20222?sni=hk2.dexlos.com#%F0%9F%87%AD%F0%9F%87%B0HK_13
-hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@us1.dexlos.com:20193?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us1.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8US_53
+﻿hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@usa-hy2.onetaplink.app:443?obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-usa.onetaplink.app#%F0%9F%87%BA%F0%9F%87%B8US_8
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?obfs=salamander&obfs-password=CF7WJGiw6r1c8imX&sni=hy2-jp.onetaplink.app#%F0%9F%87%AF%F0%9F%87%B5JP_1
