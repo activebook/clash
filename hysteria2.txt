@@ -1,2 +1,7 @@
-﻿hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@usa-hy2.onetaplink.app:443?obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-usa.onetaplink.app#%F0%9F%87%BA%F0%9F%87%B8US_8
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?obfs=salamander&obfs-password=CF7WJGiw6r1c8imX&sni=hy2-jp.onetaplink.app#%F0%9F%87%AF%F0%9F%87%B5JP_1
+﻿hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?obfs=salamander&obfs-password=CF7WJGiw6r1c8imX&sni=hy2-jp.onetaplink.app#%F0%9F%87%AF%F0%9F%87%B5JP_1
+hysteria2://dongtaiwang.com@62.210.30.179:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#%F0%9F%87%AB%F0%9F%87%B7FR_3
+hysteria2://9d9519a0-7df0-42a4-a765-29512ab65f5c@151.241.130.90:55000?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5JP_11
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-012.fastervpn.world:443?insecure=1&sni=vpn-jp-012.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_12
+hysteria2://b688ce0f-9201-4e8e-a67a-f3be2c6aa201@jp.mjhy2.com:1443?insecure=1&sni=jp.mjhy2.com#%F0%9F%87%AF%F0%9F%87%B5JP_13
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-019.fastervpn.world:443?insecure=1&sni=vpn-us-019.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_45
+hysteria2://b688ce0f-9201-4e8e-a67a-f3be2c6aa201@de.mjhy2.com:1443?insecure=1&sni=de.mjhy2.com#%F0%9F%87%A9%F0%9F%87%AADE_17
