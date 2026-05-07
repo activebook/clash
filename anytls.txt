@@ -1,6 +1,6 @@
-﻿anytls://3be8cba8-b721-11ec-8b04-f23c91cfbbc9@c7f72645-te24g0-twuk0i-1hzyr.hkt2.cdnhuawei.com:8443?security=none&type=tcp&allowInsecure=1&sni=c7f72645-te24g0-twuk0i-1hzyr.hkt2.cdnhuawei.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_5%7C916KB%2Fs
-anytls://25b2699a-e18e-11ec-8e69-f23c91cfbbc9@e0facf25-te9j40-tfo5nb-yjq0.hkt2.cdnhuawei.com:8443?security=none&type=tcp&allowInsecure=1&sni=e0facf25-te9j40-tfo5nb-yjq0.hkt2.cdnhuawei.com&insecure=1&udp=1#%F0%9F%87%AD%F0%9F%87%B0HK_16%7C910KB%2Fs
-anytls://f90ef2a3-ea76-4525-ae91-052085cc5a29@11-LAX-DR1.poocgy.eu.org:51111?security=none&type=tcp&alpn=h2&sni=11-LAX-DR1.bnm.uw.to&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30#%F0%9F%87%BA%F0%9F%87%B8US_22%7C617KB%2Fs
-anytls://5c2031cd-d658-4119-b68e-67e958bee571@2879-LIGA.poocgy.eu.org:51111?security=none&type=tcp&alpn=h2&sni=2879-LIGA.bnm.uw.to&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30#%F0%9F%87%B3%F0%9F%87%B1NL_19%7C2.4MB%2Fs
-anytls://d720a490-d56b-11ef-a1cb-f23c9313b177@99aa502f-t9w4g0-tb5234-64gc.hkt.east.wctype.com:8300?security=none&type=tcp&allowInsecure=1&sni=99aa502f-t9w4g0-tb5234-64gc.hkt.east.wctype.com&fp=chrome&insecure=1&udp=1#%F0%9F%87%AD%F0%9F%87%B0HK_43%7C1.7MB%2Fs
-anytls://26f8956e-501c-4b66-8ec8-9da03734545e@us3.catzl.top:40023?security=none&type=tcp&sni=us3.catzl.top&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_50%7C2.3MB%2Fs
+﻿anytls://5c43dc0e-7cf0-4c4a-bc48-842e1ccc3523@tw1.catzl.top:40071?security=none&type=tcp&sni=tw1.catzl.top#%F0%9F%87%B9%F0%9F%87%BCTW_2%7C1.6MB%2Fs
+anytls://ae9dd3ad-33ef-4220-9f4c-0ab9383049d5@tw1.catzl.top:40071?security=none&type=tcp&sni=tw1.catzl.top#%F0%9F%87%B9%F0%9F%87%BCTW_3%7C2.5MB%2Fs
+anytls://dcc2408c-b9ac-48e7-9e1e-b91b7180c29a@tw1.catzl.top:40071?security=none&type=tcp&sni=tw1.catzl.top#%F0%9F%87%B9%F0%9F%87%BCTW_4%7C2.1MB%2Fs
+anytls://2a5bec97-bf3c-4a69-8e63-aff2ef9a1b55@tw1.catzl.top:40071?security=none&type=tcp&sni=tw1.catzl.top#%F0%9F%87%B9%F0%9F%87%BCTW_5%7C1.7MB%2Fs
+anytls://ae9dd3ad-33ef-4220-9f4c-0ab9383049d5@us3.catzl.top:40023?security=none&type=tcp&sni=us3.catzl.top&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_35%7C587KB%2Fs
+anytls://5c2031cd-d658-4119-b68e-67e958bee571@2879-LIGA.poocgy.eu.org:51111?security=none&type=tcp&alpn=h2&sni=2879-LIGA.bnm.uw.to&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30#%F0%9F%87%B3%F0%9F%87%B1NL_10%7C1.1MB%2Fs
