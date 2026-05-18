@@ -1,1 +1,1 @@
-﻿anytls://5a23127c-8b90-4ae9-ac2d-15801b3980b7@tw1.catzl.top:40071?security=none&type=tcp&sni=tw1.catzl.top&udp=1#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C2.4MB%2Fs
+﻿anytls://5f2293ae-a2d5-4e4f-93f1-365d6997d0a0@45.192.196.109:25565?security=none&type=tcp&allowInsecure=1&fp=firefox&insecure=1&udp=1#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C726KB%2Fs
