@@ -1,1 +1,2 @@
-﻿anytls://5f2293ae-a2d5-4e4f-93f1-365d6997d0a0@45.192.196.109:25565?security=none&type=tcp&allowInsecure=1&fp=firefox&insecure=1&udp=1#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C726KB%2Fs
+﻿anytls://1c61845e-2a5c-45ae-a34e-8968cb85cc0d@38.99.248.217:51112?security=none&type=tcp&alpn=h2&sni=nauk.eu.cc&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.3MB%2Fs
+anytls://3b7ac916-eeb0-4214-943e-4a5a0b283dc8@147.125.252.28:51112?security=none&type=tcp&alpn=h2&sni=nauk.eu.cc&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30#%F0%9F%87%BA%F0%9F%87%B8US_12%7C2.0MB%2Fs
