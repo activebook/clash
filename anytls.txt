@@ -1,1 +1,14 @@
-﻿anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=none&type=tcp&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_14
+﻿anytls://d7340868-b74c-455a-8ce0-17a52afa43b7@134.195.101.162:21333?security=none&type=tcp&allowInsecure=1&sni=apple.com&insecure=1&udp=1#%E2%9D%93Other_7
+anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=none&type=tcp&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_29
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@vltl28mf.zf-mix.9999231.xyz:1002?security=none&type=tcp&allowInsecure=1&sni=iosapps.itunes.apple.com&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_71
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@jxwvps2b.zf-mix.9999231.xyz:1028?security=none&type=tcp&allowInsecure=1&sni=no-wy.9999231.xyz&insecure=1&udp=1#%F0%9F%87%B3%F0%9F%87%B4NO_1
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@37n2zex9.zf-mix.9999231.xyz:1014?security=none&type=tcp&allowInsecure=1&sni=mk-house.9999231.xyz&insecure=1&udp=1#%F0%9F%87%B2%F0%9F%87%B0MK_1
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@tfk1yyx4.zf-mix.9999231.xyz:1010?security=none&type=tcp&allowInsecure=1&sni=tr-house.9999231.xyz&insecure=1&udp=1&username=a7c5d30b-ce9b-4e34-b5cb-66f8308790ef#%F0%9F%87%B9%F0%9F%87%B7TR_4
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@4zfp01mn.zf-mix.9999231.xyz:1007?security=none&type=tcp&allowInsecure=1&sni=vn-my.9999231.xyz&insecure=1&udp=1#%F0%9F%87%BB%F0%9F%87%B3VN_1
+anytls://776b4834-caaf-4006-ab21-409e958867af@45.202.240.4:33091?security=none&type=tcp&allowInsecure=1&sni=www.bing.com&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_83
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@nv50244o.zf-mix.9999231.xyz:1043?security=none&type=tcp&sni=pe-wy.9999231.xyz#%F0%9F%87%B5%F0%9F%87%AAPE_1
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@jkb4llyw.zf-mix.9999231.xyz:1024?security=none&type=tcp&sni=ch-wy.9999231.xyz#%F0%9F%87%A8%F0%9F%87%ADCH_4
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@d455uk1w.zf-mix.9999231.xyz:1044?security=none&type=tcp&allowInsecure=1&sni=sg-cc.9999231.xyz&insecure=1&udp=1#%F0%9F%87%B8%F0%9F%87%ACSG_6
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@f3mlugfv.zf-mix.9999231.xyz:1015?security=none&type=tcp&allowInsecure=1&sni=id-house.9999231.xyz&insecure=1&udp=1#%F0%9F%87%AE%F0%9F%87%A9ID_7
+anytls://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@icn-a-01.auuas.com:1892?security=none&type=tcp&allowInsecure=1&sni=images.apple.com&insecure=1&udp=1&username=81c4547b-e5d8-4af8-baf0-91c5c0c05a9b#%F0%9F%87%B0%F0%9F%87%B7KR_3
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@ybdkz3y4.zf-mix.9999231.xyz:1009?security=none&type=tcp&sni=co-8ce91c.9999231.xyz&udp=1&username=a7c5d30b-ce9b-4e34-b5cb-66f8308790ef#%F0%9F%87%A8%F0%9F%87%A6CA_7
